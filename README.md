@@ -22,9 +22,10 @@ Ending bike ride higher in areas/locations where bigger circles and darker.
 Top starting locations in areas/locations where bigger circles and darker toned.
 
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Gender%20by%20Weekday%20per%20hour.png)
-Trips by gender
+Trips by gender a weekday per hour, higher male than female during particular (mid day) hours.
 
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Gender%20by%20Weekday.png)
+Weekday bike checkouts by gender, higher male.
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday%20per%20each%20hour.png)
 Heatmap shows where higher amounts of trips where the color is darker and the hours it occurs at.
 
