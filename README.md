@@ -10,6 +10,7 @@ The purpose of this project was to create a visualization for investors to decid
 3. Trips by Weekday for Each Hour
 4. Trips by Gender (Weekday per Hour
 5. User Trips by Gender by Weekday 
+6. https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Bikesharing%20Story.png
 
 ## Summary 
 Completing the analysis displayed to me that further information is needed in order to complete and solidify a proper business proposal.
