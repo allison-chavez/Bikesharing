@@ -8,8 +8,12 @@ The purpose of this project was to create a visualization for investors to decid
 
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Bikesharing%20Story.png)
 Bike sharing story board I made using tableau
+
+![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/User%20checkout%20times.png)
+Checkout time by users.
+
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Checkout%20Times%20by%20gender.png)
-Checkout times depending on Gender using a heatmap. Darker toned areas mean more checkouts.
+Checkout times depending on Gender, higher male checkouts than woman.
 
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Top%20Ending%20Locations.png)
 Ending bike ride higher in areas/locations where bigger circles and darker.
@@ -22,8 +26,8 @@ Trips by gender
 
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Gender%20by%20Weekday.png)
 ![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/Trips%20by%20Weekday%20per%20each%20hour.png)
+Heatmap shows where higher amounts of trips where the color is darker and the hours it occurs at.
 
-![alt text](https://github.com/allison-chavez/Bikesharing/blob/main/Tableau%20Images/User%20checkout%20times.png)
 
 
 
